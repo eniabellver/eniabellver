@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eniabellver, feel free to call me Eni
+- 👋 Hi, I’m @eniabellver, aka Eni!
 - 👀 I’m interested in expanding my knowledge on tech and CS to eventually become a full-stack software engineer
 - 🌱 I’m currently learning the basics following the School of Code's instructions
-- 💞️ I’m looking to collaborate on cool projects with my future fellow bootcampers
+- 😃 I’m looking forward to collaborating on cool projects with my future fellow bootcampers
 - 📫 You can talk to me on twitter @enia_be
 
 <!---
