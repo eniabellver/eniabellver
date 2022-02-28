@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @eniabellver, aka Eni!
-- 👀 I’m interested in expanding my knowledge on tech and CS to eventually become a full-stack software engineer
-- 🌱 I’m currently learning with School of Code
-- 😃 I’m looking forward to collaborating on cool projects with my future fellow bootcampers
-- 📫 You can talk to me on twitter @enia_be
+![Github Banner](https://i.imgur.com/02Mq7zq.png)
 
-<!---
-eniabellver/eniabellver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a newly trained software engineer who learnt how to code after spending 16 weeks in the School of Code's intensive bootcamp.
