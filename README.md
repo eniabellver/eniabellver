@@ -28,7 +28,7 @@ AWS, DevOps fundamentals, and Serverless.
  
 ⚙ Currently working on...
 -----
-A Pomodoro timer app with lots of unit testing, built in React using the Reast Testing Library.
+A Pomodoro timer app with lots of unit testing, built in React.
 
  
 ⚡ Skillset
