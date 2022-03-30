@@ -23,7 +23,7 @@ A full-stack developer, digital artist and 3D rendering enthusiast.
 
 📚 Learning...
 ------
-AWS, DevOps fundamentals, and Serverless.
+C# and .NET
 
  
 ⚙ Currently working on...
