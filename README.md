@@ -2,7 +2,7 @@
 Developer, digital artist and 3D rendering enthusiast.
 ======
 
-I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK. I have a background in graphic design and currently work as a QA engineer.
+I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK. I have a background in graphic design and currently work as a QA engineer at OAG.
  
 ### 🎯 Interests:
 - Digital Illustration
