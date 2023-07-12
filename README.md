@@ -2,10 +2,10 @@
 Developer, digital artist and 3D rendering enthusiast.
 ======
 
-I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK. I have a background in graphic design and currently work as a QA engineer at OAG.
+I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK. I have a background in graphic and Ui/Ux design and currently work as a software engineer at OAG. My career goal is to become an expert in front-end development.
  
 ### 🎯 Interests:
-- Digital Illustration
+- Archery (compound bow)
 - 3D rendering
 - Learning foreign languages
 - Videogames
@@ -22,16 +22,17 @@ I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK
 📚 Learning...
 ------
 - Typescript
+- Vue
 
  
 ⚙ Currently working on...
 -----
-- Personal portfolio
+- Personal portfolio (designing on Figma)
+- Building more recent projects to show hiring managers :)
  
 ⚡ Skillset
 -----
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-
 
  
 🛠 Tools
