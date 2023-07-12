@@ -2,7 +2,7 @@
 Developer, digital artist and 3D rendering enthusiast.
 ======
 
-I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK. I have a background in graphic and Ui/Ux design and currently work as a software engineer at OAG. My career goal is to become an expert in front-end development.
+I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK. I have a background in graphic and Ui/Ux design and currently work as a software engineer at OAG. My career goal is to become an expert at front-end development.
  
 ### 🎯 Interests:
 - Archery (compound bow)
