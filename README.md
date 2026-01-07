@@ -1,5 +1,5 @@
 ![Github Banner](https://i.imgur.com/bVZ1TcR.png)
-Developer, digital artist and 3D rendering enthusiast.
+Software Engineer, organisation lover and 3D rendering enthusiast.
 ======
 
 I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK. I have a background in graphic and Ui/Ux design and currently work as a software engineer at OAG.
@@ -21,14 +21,16 @@ I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate based in the UK
 
 📚 Learning...
 ------
-- Typescript
+- Japanese
 - Vue
+- Blender
 
  
 ⚙ Currently working on...
 -----
 - Personal portfolio (designing on Figma)
 - Building more recent projects to show hiring managers :)
+- Getting Agile and SCRUM certifications
  
 ⚡ Skillset
 -----
